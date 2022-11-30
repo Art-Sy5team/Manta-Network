@@ -76,6 +76,11 @@ cargo run --release --all-features --bin groth16_phase2_client contribute
 
 [![hash.png](https://i.postimg.cc/PJLkSwMy/hash.png)](https://postimg.cc/XB0hJXmB)
 
+## Hapus directory (Optional jika ingin menghapus)
+```
+rm -rf manta-rs
+```
+
 ## event-event Manta Network 
 
 - Event 1: [$1,000 in $KMA Prizes - Manta Network Trusted Setup](https://gleam.io/hCQmJ/manta-network-trusted-setup-campaign) Event ini jika anda telah mendapatkan balasan email & sudah menjalan **Run Contribution** butuh hash
@@ -83,7 +88,7 @@ cargo run --release --all-features --bin groth16_phase2_client contribute
 - Form 1 : [Dolphin Testnet Airdrop](https://docs.google.com/forms/d/e/1FAIpQLScNkYcYQxn9ZpJOc0mg00i2HEV5qHQmSESDDGlFSJHC8bB2rQ/viewform) Jika sudah join menyelesaikan gleam silahkan isi juga ini.
 - From 2 : [Dolphin Testnet v2 Feedback](https://docs.google.com/forms/d/e/1FAIpQLSeXxAUNQWNIWS5wOYjlmYNcBvkuTY6jwZbjS4gkqHjcQpRB2A/viewform) Event ini untuk memberi masukan dan ranting untuk testnet Dolphin 
 
-## [Tutorial Testnet Dolphin](https://art-sy5team.gitbook.io/dolphin/)
+## Event 2 [Tutorial Testnet Dolphin](https://art-sy5team.gitbook.io/dolphin/)
 
 
 ## Art-Team INFO
