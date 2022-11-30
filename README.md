@@ -28,7 +28,7 @@ manta-trusted-setup register
 - simpan semua file disana (contoh SS di atas yang harus di backup)
 - buka Link Form di crome anda dan Registrasi isi detail (**tiap form URL bedah**)
 - NAMA, EMAIL, Discord, FEEDBACK, & Address KMA [Tutorial Import wallet Polkadot](https://art-sy5team.gitbook.io/polkadot-address/)
-- setelah itu tunggu balasan email pendaftaran & lanjut **Run Contribution** 
+- setelah itu tunggu paling lama 24 jam antrian pendaftaran & lanjut **Run Contribution** 
 
 
 # Jalankan Kontribusi
